@@ -1,0 +1,1 @@
+const t=r=>new Intl.NumberFormat("id-ID",{style:"currency",currency:"IDR"}).format(r),e=r=>new Intl.DateTimeFormat("id-ID",{year:"numeric",month:"short",day:"2-digit"}).format(new Date(r));export{e as a,t as f};
