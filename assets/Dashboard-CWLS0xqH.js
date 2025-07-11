@@ -1,1 +1,0 @@
-import{o as d,c as e,a}from"./index-CfhmYpX4.js";const o={class:"dashboard"},c={__name:"Dashboard",setup(r){return(t,s)=>(d(),e("div",o,s[0]||(s[0]=[a("div",{class:"dashboard__header"},[a("h1",{class:"dashboard__title"},"Dashboard")],-1),a("div",{class:"dashboard__content"},[a("div",{class:"dashboard__widgets"})],-1)])))}};export{c as default};
